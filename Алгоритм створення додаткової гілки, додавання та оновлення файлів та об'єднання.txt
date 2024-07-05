@@ -17,8 +17,12 @@
 
 
 ---------------------------------------- Об'єднання репозиторії
-2.1 git branch master - перехід в гілку
-2.2 git marge New - команда злиття гілок
+2.1 git checkout master - перехід в гілку
+2.2 git merge New - команда злиття гілок
+2.3 git push origin master -Оновлення данних
+2.4 git branch -d New - видалення гілки локально
+2.5 git push origin --delete New - Видалення гілки віддалено
+
 
 
 
